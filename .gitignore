@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!l1.c
+# etc...
+
+# ...even if they are in subdirectories
+!*/
